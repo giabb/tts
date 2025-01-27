@@ -1,4 +1,4 @@
-const ENDPOINT = 'https://tiktok-tts.weilnet.workers.dev';
+const ENDPOINT = 'https://countik.com/it/tiktok-voice-generator';
 const MAX_TEXT_LENGTH = 300;
 let audio_data_parts = [];
 
